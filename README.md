@@ -1,4 +1,4 @@
-![eyecatch](https://github.com/user-attachments/assets/cade13fd-7f4d-40a6-a9b6-579a0e73109b)
+![eyecatch](https://github.com/user-attachments/assets/99c9ab88-579c-4718-97a2-3891171f7774)
 
 # このレポジトリについて
 
@@ -6,7 +6,7 @@
 エクセルファイル上の画像のセル番地を取得します。  
 
 詳細はブログ記事を参照してください。  
-[chrom-blog |【Python】Excelファイル上の画像のセル番地を取得する](https://chrom-blog.com/how-to-get-image-address/)
+[chrom-blog |【Python】Excelファイル上の画像のセル番地を取得する（xmlを自力で解析する編）](https://chrom-blog.com/how-to-get-image-placed-cell-address-xml/)
 
 
 # ファイル一覧
